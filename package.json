@@ -1,6 +1,6 @@
 {
   "name": "angular-chart.js",
-  "version": "1.1.1",
+  "version": "1.1.1-lineaje-01",
   "description": "An angular.js wrapper for Chart.js",
   "homepage": "http://jtblin.github.io/angular-chart.js/",
   "main": "dist/angular-chart.js",
@@ -17,9 +17,15 @@
   "author": "Jerome Touffe-Blin <jtblin@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jtblin/angular-chart.js.git"
+    "url": "https://github.com/lineaje-labs-gos/jtblin-angular-chart.js"
   },
   "license": "BSD-2-Clause",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "devDependencies": {
     "Rainbow": "git+https://github.com/ccampbell/rainbow.git",
     "angular-bootstrap": "^0.12.2",
